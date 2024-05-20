@@ -17,12 +17,12 @@ int main() {
     varIbu2->tambahAnak(varAnak3);
     varIbu2->tambahAnak(varAnak1);
     
-    varIbvu->cetakAnak();
-    varIbvu2->cetakAnak();
+    varIbu->cetakAnak();
+    varIbu2->cetakAnak();
 
-    delete varibu;
-    delete varibu2;
-    delete varibu1;
-    delete varibu2;
-    delete varibu3;
+    delete varIbu;
+    delete varIbu2;
+    delete varAnak1;
+    delete varAnak2;
+    delete varAnak3;
 }
