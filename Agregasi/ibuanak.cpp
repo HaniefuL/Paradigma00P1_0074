@@ -20,5 +20,9 @@ int main() {
     varIbvu->cetakAnak();
     varIbvu2->cetakAnak();
 
-    delete varibu
+    delete varibu;
+    delete varibu2;
+    delete varibu1;
+    delete varibu2;
+    delete varibu3;
 }
