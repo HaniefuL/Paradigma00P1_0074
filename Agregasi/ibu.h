@@ -18,3 +18,4 @@ public:
 void ibu::tambahAnak(anak* pAnak) {
     daftar_anak.push_back(pAnak);
 }
+void
